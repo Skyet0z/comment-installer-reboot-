@@ -1,4 +1,4 @@
-# comment installer reboot sur son PC ?
+# tutoriel version captures d'écrans
 
 Dans ce tutoriel, il y a plusieurs points importants à retenir:
 
