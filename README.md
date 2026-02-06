@@ -230,6 +230,11 @@ On va vérifier que tout fonctionne bien comme il le faut
 
 <img width="607" height="273" alt="image" src="https://github.com/user-attachments/assets/f5e9f4cd-cb27-47b9-9412-cba0162ca026" />
 
+Rendez vous maintenant sur ce 2nd tutoriel :
+
+https://github.com/Skyet0z/comment-installer-reboot-/blob/tutoriel-commandes-sur-le-jeu/README.md
+
+
 
 
 
