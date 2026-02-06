@@ -1,0 +1,3 @@
+# Lien pour installer Free downloads manager :
+
+-> https://files2.freedownloadmanager.org/6/latest/fdm_x64_setup.exe
