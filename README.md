@@ -25,7 +25,7 @@ launcher reboot -> ⚙️Settings
 
 ______________________
 
-Liste des saisons testé et fonctionnels selon les chapitres (de 1 à 3)
+Liste des saisons testées et fonctionnels selon les chapitres (de 1 à 3)
 
 **Chapitre 1**
 - 6.31 (6.31-CL-4573279)
