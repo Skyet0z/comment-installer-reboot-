@@ -97,6 +97,9 @@ Les commandes utiles pour trickshots au niveau des objets sont les suivantes:
 - cheat give goldfish
 <img width="182" height="139" alt="image" src="https://github.com/user-attachments/assets/8096d31d-7aa7-4e95-ab36-4662438f7f0c" />
 
+- cheat giveitem Athena_SuperTowerGrenade_A (forteresse de poche)
+
+<img width="220" height="220" alt="image" src="https://github.com/user-attachments/assets/78de3c24-2982-45c4-94aa-05564e0a2bc5" />
 
 et plus encore...
 ______
