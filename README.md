@@ -99,7 +99,7 @@ Les commandes utiles pour trickshots au niveau des objets sont les suivantes:
 
 - cheat giveitem Athena_SuperTowerGrenade_A (forteresse de poche)
 
-<img width="1080" height="1080" alt="2UKJCK" src="https://github.com/user-attachments/assets/a7cb3d1f-35dc-40d2-8ae0-8a3cc404438f" />
+<img width="182" height="139" alt="2UKJCK" src="https://github.com/user-attachments/assets/a7cb3d1f-35dc-40d2-8ae0-8a3cc404438f" />
 
 et plus encore...
 ______
