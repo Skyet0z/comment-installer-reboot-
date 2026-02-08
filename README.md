@@ -4,11 +4,11 @@
 
 le fonctionnement pour lancer une partie est très simple.
 
-appuyez sur la touche "²" (carré) de votre clavier (AZERTY)
+- appuyez sur la touche "²" (carré) de votre clavier (AZERTY)
 
 <img width="100" height="84" alt="image" src="https://github.com/user-attachments/assets/cbf5ff4d-325a-4d4b-bfe7-508c9f162230" />
 
-appuyez sur la touche "ESC" (échap) de votre clavier (QWERTY)
+- appuyez sur la touche "ESC" (échap) de votre clavier (QWERTY)
 
 <img width="190" height="137" alt="image" src="https://github.com/user-attachments/assets/011133a8-bb2a-4180-8410-b8b78bd61922" />
 
@@ -174,7 +174,8 @@ ______________
 
 Vous pouvez retrouver la liste compléte des commandes ici :
 
-- https://github.com/Skyet0z/comment-installer-reboot-/blob/tutoriel-commandes-sur-le-jeu/REBOOT%20SCRIPT%20V3
+- https://github.com/Skyet0z/comment-installer-reboot-/blob/tutoriel-commandes-sur-le-jeu/REBOOT%20SCRIPT%20V3 (script V3)
+- https://github.com/Skyet0z/comment-installer-reboot-/blob/tutoriel-commandes-sur-le-jeu/Commande%20reboot%20V1 (script V1)
 
 
 
