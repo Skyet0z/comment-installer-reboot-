@@ -4,11 +4,13 @@
 
 le fonctionnement pour lancer une partie est très simple.
 
-appuyez sur la touche "²" (seconde) de votre clavier 
+appuyez sur la touche "²" (carré) de votre clavier (AZERTY)
 
 <img width="100" height="84" alt="image" src="https://github.com/user-attachments/assets/cbf5ff4d-325a-4d4b-bfe7-508c9f162230" />
 
-(le "petit 2" entre TAB et 1)
+appuyez sur la touche "ESC" (échap) de votre clavier (QWERTY)
+
+<img width="190" height="137" alt="image" src="https://github.com/user-attachments/assets/011133a8-bb2a-4180-8410-b8b78bd61922" />
 
 vous allez voir ceci apparaitre:
 
