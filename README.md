@@ -72,11 +72,11 @@ dans le cas de vouloir trickshots, vous pouvez avec les DLL mis, mettre ce genre
 
 <img width="1914" height="1076" alt="image" src="https://github.com/user-attachments/assets/5f051658-25c3-403f-a7fe-07a37d2689f5" />
 
-ou vaec toutes les commandes donnés :
+ou avec toutes les commandes donnés :
 
 <img width="513" height="139" alt="image" src="https://github.com/user-attachments/assets/925172f1-8701-4a99-ae12-388631f964f2" />
 
-**2.2 - commandes utiles (objets)**
+**2.2 - commandes utiles (objets & debug chap 2)**
 
 Les commandes utiles pour trickshots au niveau des objets sont les suivantes:
 
@@ -95,7 +95,23 @@ Les commandes utiles pour trickshots au niveau des objets sont les suivantes:
 - cheat give goldfish
 <img width="182" height="139" alt="image" src="https://github.com/user-attachments/assets/8096d31d-7aa7-4e95-ab36-4662438f7f0c" />
 
+
 et plus encore...
+______
+
+Débug chapitre 2 (avec le grapin)
+si vous utilisez un grapin en chapitre 2, il ce peut, selon votre version de saison, que vous soyez buggé avec votre grapin.
+
+pour vous débugguer de cette situation, utilisez ces 2 commandes:
+
+1 - cheat giveitem AGID_AshtonPack_turbo - visez avec 1 seul fois
+
+<img width="861" height="278" alt="image" src="https://github.com/user-attachments/assets/ba4487f4-1558-41be-be65-0f030c811d17" />
+
+2 - cheat giveitem AGID_AshtonPack_Chicago - visez avec 1 seul fois
+
+<img width="858" height="267" alt="image" src="https://github.com/user-attachments/assets/3f3ae5a9-850e-420c-8a0c-af84187f7b69" />
+
 
 **2.3 - commandes utiles (armes secondaires)**
 
