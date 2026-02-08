@@ -82,7 +82,7 @@ ou avec toutes les commandes donnés :
 
 Les commandes utiles pour trickshots au niveau des objets sont les suivantes:
 
-- cheat give shockwave
+- cheat give shock
 <img width="210" height="153" alt="image" src="https://github.com/user-attachments/assets/133e690f-59d6-4b07-8c02-44cb742c4979" />
 
 - cheat give grap
