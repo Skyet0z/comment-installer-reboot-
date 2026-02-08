@@ -156,6 +156,7 @@ ______________
 
 Vous pouvez retrouver la liste compléte des commandes ici :
 
+- https://github.com/Skyet0z/comment-installer-reboot-/blob/tutoriel-commandes-sur-le-jeu/REBOOT%20SCRIPT%20V3
 
 
 
